@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Zorrilla</h1>
 <h3 align="center">A passionate web developer from Venezuela</h3>
 
-- 📫 How to reach me **zorrillagja@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **zorrillagja@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
