@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Juan Zorrilla</h1>
-<h3 align="center">A passionate web developer from Venezuela</h3>
+<h3 align="center">A passionate web developer from Venezuela and Microverse student</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Swarzstein" alt="Swartzstein" /></a> </p>
 
+- 🔭 I’m currently working on [Leaderboard](https://github.com/Swarzstein/leaderboard)
+
+- 🌱 I’m currently learning **JavaScript, API's**
+
+- 👨‍💻 All of my projects are available at [https://swarzstein.github.io/Portfolio/](https://swarzstein.github.io/Portfolio/)
+
+- 💬 Ask me about **HTML5 and CSS3**
+
+- 📫 How to reach me **zorrillagja@gmail.com**
+
+- ⚡ Fun fact **I'm a freak of languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 📫 How to reach me **zorrillagja@gmail.com**
+<a href="https://www.linkedin.com/in/juan-a-zorrilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-a-zorrilla/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
