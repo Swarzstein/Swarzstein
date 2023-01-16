@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Leaderboard](https://github.com/Swarzstein/leaderboard)
 
-- 🌱 I’m currently learning **JavaScript, API's**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://swarzstein.github.io/Portfolio/](https://swarzstein.github.io/Portfolio/)
 
