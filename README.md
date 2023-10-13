@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swarzstein.github.io/Portfolio/](https://swarzstein.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML5 and CSS3**
+<!-- - 💬 Ask me about **HTML5 and CSS3** -->
 
 - 📫 How to reach me **zorrillagja@gmail.com**
 
