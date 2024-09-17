@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning **React** -->
 
-- 👨‍💻 All of my projects are available at [https://swarzstein.github.io/Portfolio/](https://swarzstein.github.io/Portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://swarzstein.github.io/Portfolio/](https://swarzstein.github.io/Portfolio/) -->
 
 <!-- - 💬 Ask me about **HTML5 and CSS3** -->
 
